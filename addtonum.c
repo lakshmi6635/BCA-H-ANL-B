@@ -2,8 +2,8 @@
 #include<conio.h>
 void main()
 {
-int a=10,b=15,c;
+int a=10,b=10,c;
 c=a+b;
-printf("The value of C = %d",c);
+printf("The value of C after addition %d",c);
 getch();
 }
